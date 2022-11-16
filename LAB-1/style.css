@@ -1,0 +1,14 @@
+       .blue{
+                color: blue;
+                font-style: italic;
+        }
+
+        p{
+            color: rgb(50, 8, 50);
+        }
+
+        #bold{
+            font-weight: bold;
+            color: blueviolet;
+
+        }
